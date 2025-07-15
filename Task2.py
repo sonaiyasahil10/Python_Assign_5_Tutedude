@@ -4,4 +4,4 @@ reverse_first_five=first_five[::-1]
 
 print("Original List: ",number_list)
 print("Extracted first five elements: ",first_five)
-print("Reverse extracted elements: ",reverse_first_five)
+print("Reversed extracted elements: ",reverse_first_five)
